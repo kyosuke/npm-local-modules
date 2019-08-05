@@ -13,9 +13,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kyosuke/npm-local-modules/issues"
   },
-  "homepage": "https://github.com/kyosuke/npm-local-modules#readme"
+  "homepage": "https://github.com/kyosuke/npm-local-modules#readme",
+  "private": true
 }
